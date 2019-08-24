@@ -1,6 +1,7 @@
 {t:Wędrówką jedną życie jest człowieka}
 {st:Stare Dobre Małżeństwo}
 {key:Am}
+
 [Am]Wędrówką jedną życie jest czło[C]wieka;
 [G]Idzie wciąż,
 [Am]Dalej wciąż,

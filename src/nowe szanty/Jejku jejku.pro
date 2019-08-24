@@ -1,30 +1,7 @@
 {t:Jejku jejku}
 {st:Jerzy Porębski}
-{font:Title,Arial,41,0,false,false}
-{font:SubTitle,Arial,26,0,false,false}
-{font:Lyric,Arial,24,0,false,false}
-{font:Chorus,Arial,24,0,false,false}
-{font:Chord,Arial,24,0,false,true}
-{font:Comment,Arial,18,0,false,false}
-{font:Tablature,Monaco,17,0,false,false}
-{font:Editor,Monaco,14,0,false,false}
-{color:Title,0.000000,0.000000,0.000000,1.000000}
-{color:SubTitle,0.400000,0.400000,0.400000,1.000000}
-{color:Lyric,0.200000,0.200000,0.200000,1.000000}
-{color:Chorus,0.000000,0.000000,0.000000,1.000000}
-{color:Chord,0.501961,0.000000,0.000000,1.000000}
-{color:Comment,0.400000,0.400000,0.400000,1.000000}
-{color:Tablature,0.000000,0.000000,0.000000,1.000000}
-{color:Editor,0.000000,0.000000,0.000000,1.000000}
-{color:EditorBack,1.000000,1.000000,1.000000,1.000000}
-{color:Background,1.000000,1.000000,1.000000,1.000000}
-{color:Highlight,1.000000,1.000000,0.000000,1.000000}
-{chordChartSize:56.031250}{playtime:0}
-{chorusindent:32}
-{chordspace:3}
-{linespace:0}
-{transpositionLevel:0}
 {key:Am}
+
 {soc}
 [Am]Jejku, [Em]jejku, no [Am]mówię [Dm]wam,
 [Am]Jaki [Em]rejs za [Am]sobą [Em]mam.
